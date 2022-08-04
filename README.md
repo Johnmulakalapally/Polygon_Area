@@ -18,7 +18,7 @@ first check the it any line segments are intersect to each other or not, if they
 or all are equl to 0 or all are less than 0 then such type of polygon called convex otherwise it is called concave.
 we can find the perimeter by adding all segments lengths
 we can find the area of polygon by using shoelace algorithm
-# shoelace algorithm
+## shoelace algorithm
 ![Screenshot 1](https://user-images.githubusercontent.com/99794453/182764243-f46cdb10-053a-459e-aef1-9381189cdded.png)
 
 The shoelace formula or shoelace algorithm is a mathematical algorithm to determine the area of a simple polygon whose vertices are described by their Cartesian coordinates in the plane.
