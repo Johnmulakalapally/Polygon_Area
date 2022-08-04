@@ -1,12 +1,12 @@
 # Project:Polygon Area
-# Poject 1: simple polygon area and perimeter calculater
+## Poject 1: simple polygon area and perimeter calculater
 ![Pentagonn](https://user-images.githubusercontent.com/99794453/182675547-2198e4d6-9cdb-429b-b75d-c39671f67166.jpg)
 In convex polygon All interior angles are  less than 180 degress. 
 In this project our main aim to find the area and perimeter of polygon by that purpose first we declare the vertices 
 and second we can declare the each side of the two points. we can find the distnace between the every points automatically we get the length of each side.
 By adding all sides lengths we get the perimeter of the polygon 
 To find the area first we can divide the polygon into trinagles shape. after we can find the area of all triangles adding all these area to get the Area of polygon
-# Project 2: convex and concave polygon area and perimeter calculator
+## Project 2: convex and concave polygon area and perimeter calculator
 ![images](https://user-images.githubusercontent.com/99794453/182679801-c11e434d-f2cf-4bd9-bc12-d29a4d4ac927.png)
 convex:All interior angles are less than 180 degrees
 concave: At least one angle is greater than 180 degrees
